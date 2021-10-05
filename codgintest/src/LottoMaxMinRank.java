@@ -1,12 +1,4 @@
-public class Lotto {
-
-    public static void main(String[] args){
-
-    }
-
-}
-class Solution {
-
+public class LottoMaxMinRank {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
 
